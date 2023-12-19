@@ -1,0 +1,5 @@
+# файлы от Visual Studio Code 
+*.sln
+
+#папки от Мака
+.DS_Store
